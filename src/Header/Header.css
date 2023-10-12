@@ -1,0 +1,25 @@
+
+.navbar-brand{
+    
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+}
+
+/* .nav-link{
+    text-align: center;
+    padding-right: 30px;
+    color: black;
+    background-color: tan;
+} */
+
+.navbar{
+    background-color: #001F3F;
+}
+
+
+.home-button{
+    color: white;
+}
+

@@ -1,0 +1,43 @@
+.jobcard{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 150%;
+    
+}
+
+
+.row-id{
+   text-align: right;
+   margin-right: 20px;
+
+}
+.row-name{
+    margin-left: 5px;
+}
+.row-mobile{
+    margin-left: 5px;
+}
+.row-address{
+    margin-left: 5px;
+}
+.row-plan{
+    margin-left: 5px;
+}
+
+.row-services{
+    margin-left: 5px;
+    
+    width: 150%;
+}
+.row-date{
+    margin-left: 5px;
+}
+.row-time{
+    margin-left: 5px;
+}
+.row-price{
+    margin-left: 5px;
+    text-align: right;
+}
